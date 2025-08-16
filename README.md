@@ -24,7 +24,7 @@ npm install -g pnpm
 
 ```
 
-## Demo Links
+## Screen Recording Links
 - [Scenario-1](https://1drv.ms/v/c/7376206ed0b09acf/EQAw1sR_-RhCj7WiqleMrLABzxAt207SGd8ARD3sUPQSug?e=HiJAtb)
 - [Scenario-2-E-1](https://1drv.ms/v/c/7376206ed0b09acf/Efty4y5jaDZJuaswgx6tXLsBxRlMXosvhZmaYxqx6elSOA?e=2SZWmH)
 - [Scenario-2-E-2](https://1drv.ms/v/c/7376206ed0b09acf/EYs_GubzQOtOgQHsl5FzwaMBiDiKPJB2iFtzDQ9p4vTi-A?e=VJ480d
