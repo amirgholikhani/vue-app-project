@@ -69,7 +69,7 @@ export const useShopStore = defineStore('ShopStore', {
 
         return this.purchases.filter(p =>
           p.customerId !== customerId && (p.productId in productsOfCategoryMap) && !productsByCustomer.includes(p.productId)
-        ). map(p => this.productMap[p.productId])
+        ).map(p => this.productMap[p.productId])
       }
     }
   }
